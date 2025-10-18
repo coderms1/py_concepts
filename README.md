@@ -7,7 +7,7 @@
 
 This is a personal collection of short, focused Python scripts exploring different ideas, tricks, and algorithmic puzzles.
 Each file highlights a single concept, practice exercise, or coding pattern.  
-A majority of these were from challenges on https://www.Codewars.com.*
+*A majority of these were from challenges on https://www.Codewars.com.*
 
 ---
 
