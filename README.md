@@ -56,7 +56,7 @@ Each file highlights a single concept, practice exercise, or coding pattern.
 
 #### 🚀 **Remarks** 
 
-*This repo is my ongoing sandbox for learning and teaching — exploring Python concepts one mini script at a time.
+*This repo is my ongoing sandbox for learning, teaching, & exploring Python concepts one mini script at a time.
 Feel free to fork, test, or roast my code 😎 I am, afterall still a noobish pleb!*
 
 ~ 👾 *MS1*  
