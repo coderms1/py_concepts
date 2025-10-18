@@ -1,4 +1,4 @@
-### 💽 **Welcome to my py_concepts repo!** 
+## 💽 **Welcome to my py_concepts repo!** 
 
 ####**🧠 Python Concepts Explored**
 *Simple. Clean. To the point.*
@@ -54,9 +54,8 @@ A majority of these were from challenges on https://www.Codewars.com.*
 
 ```
 
-~ thx 👾 MS1
 🚀 #### **Remarks**
-This repo is my ongoing sandbox for learning and teaching — exploring Python concepts one mini script at a time.
-Feel free to fork, test, or roast my code 😎 I am, afterall still a noobish pleb! <3
+*This repo is my ongoing sandbox for learning and teaching — exploring Python concepts one mini script at a time.
+Feel free to fork, test, or roast my code 😎 I am, afterall still a noobish pleb!*
 
 ~ 👾 *MS1*  
