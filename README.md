@@ -1,6 +1,6 @@
 ## 💽 **Welcome to my py_concepts repo!** 
 
-####**🧠 Python Concepts Explored**
+#### **🧠 Python Concepts Explored**
 *Simple. Clean. To the point.*
 
 ---
