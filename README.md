@@ -50,7 +50,7 @@ Each file highlights a single concept, practice exercise, or coding pattern.
 | 33_open_or_sen_pt2.py     | Extended membership classification logic    |
 | 34_switch_it_up.py        | Alternate switch-case logic                 |
 | 35_greet.py               | Greetings demo using string formatting      |
-| 36_squareOfSquares.py     | Determine if a number is a perfect square   |
+| 36_squareOfSquares.py     | Determine if number is perfect square       |
 
 ```
 
